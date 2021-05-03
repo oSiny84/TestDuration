@@ -1,0 +1,18 @@
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\obj\x86\Debug\TestDuration.Form1.resources
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\obj\x86\Debug\TestDuration.Properties.Resources.resources
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\obj\x86\Debug\ResGen.read.1.tlog
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\obj\x86\Debug\ResGen.read.4.tlog
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\obj\x86\Debug\ResGen.write.1.tlog
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\bin\Debug\TestDuration.exe
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\bin\Debug\TestDuration.pdb
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\obj\x86\Debug\TestDuration.exe
+h:\june data\visual studio 2010\Projects\TestDuration\TestDuration\obj\x86\Debug\TestDuration.pdb
+C:\D\VS_Workspace_Tools\TestDuration\TestDuration\TestDuration\obj\x86\Debug\TestDuration.exe
+C:\D\VS_Workspace_Tools\TestDuration\TestDuration\TestDuration\obj\x86\Debug\TestDuration.pdb
+C:\D\VS_Workspace_Tools\TestDuration\TestDuration\TestDuration\bin\Debug\TestDuration.exe
+C:\D\VS_Workspace_Tools\TestDuration\TestDuration\TestDuration\bin\Debug\TestDuration.pdb
+C:\D\VS_Workspace_Tools\TestDuration\TestDuration\TestDuration\obj\x86\Debug\TestDuration.csprojResolveAssemblyReference.cache
+C:\D\VS_Workspace_Tools\TestDuration\TestDuration\TestDuration\obj\x86\Debug\TestDuration.Form1.resources
+C:\D\VS_Workspace_Tools\TestDuration\TestDuration\TestDuration\obj\x86\Debug\TestDuration.Properties.Resources.resources
+C:\D\VS_Workspace_Tools\TestDuration\TestDuration\TestDuration\obj\x86\Debug\TestDuration.csproj.GenerateResource.Cache
